@@ -8,7 +8,13 @@ welcone to my github page. I am learning multiple topics and usually keep assign
 - 🔭Looking forward for working with AI/ML/DS related projects (noobish, but hardworking).
 - 💬Open to suggestions.
 - ⬇️Some projects done are in repo (don't judge).
-- ![image](https://github.com/rsmaayon/rsmaayon/assets/116261236/059443cb-8790-4a56-818a-6f218df20315) Will update other relevant info or categories here.
+- 🍕 Portfolio (need to make and present here)
+- 📜 Have small experience in multiple areas.
+- ⏳Strongly believe in upskilling as it saves time.
+- 🎯Focussing for interesting projects and understanding existing projects.
+- ![image](https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21) width=10px 
+
+  
 
 
 
