@@ -15,7 +15,7 @@ welcone to my github page. I am learning multiple topics and usually keep assign
 - <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="25"> Always learning something because it is new or I forgot.
 - 💯Cheat sheets and road maps (collected from others) are also in repo, check them as it is very useful directly or indirectly.
 - 💡Few notable works (not in repo): Automation for testing, Analysis of data, Visualization with Python,Plotly, problem identification with pattern recognition.
-- ❄️ Old school programmer with C,C++,Fortran and programmed with Matlab, C2000, Arduino, PLC, FPGA, Raspberry Pi.
+- ❄️ Old school programmer with C,C++,Fortran (no, not just Hello World!) experience and programmed with Matlab, C2000, Arduino, PLC, FPGA, Raspberry Pi.
 - 🧩Worked with Optimization(meta-heuristic) algorithms, Neural Networks and Control algorithms (I forgot few others, but will update later).
 - 📍Learning markdown too, so will update this page later.
 
