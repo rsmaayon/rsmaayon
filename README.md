@@ -12,14 +12,13 @@ welcone to my github page. I am learning multiple topics and usually keep assign
 - 📜 Have small experience in multiple areas.
 - ⏳Strongly believe in upskilling as it saves time.
 - 🎯Focussing for interesting projects and understanding existing projects.
-- <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="25">
-
-  
-
+- <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="25"> Always learning something because it is new or I forgot.
+- 💯Cheat sheets and road maps (collected from others) are also in repo, check them as it is very useful directly or indirectly.
 
 
 🌟Thank you and have a nice day 🌟.
 
+p.s: Github is fun.
 <!--
 **rsmaayon/rsmaayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
