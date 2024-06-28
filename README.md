@@ -12,7 +12,7 @@ welcone to my github page. I am learning multiple topics and usually keep assign
 - 📜 Have small experience in multiple areas.
 - ⏳Strongly believe in upskilling as it saves time.
 - 🎯Focussing for interesting projects and understanding existing projects.
-- <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="10">
+- <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="30">
 
   
 
