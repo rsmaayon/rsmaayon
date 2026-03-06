@@ -6,12 +6,12 @@ welcone to my github page. I am learning multiple topics and usually keep assign
 - ☕Badges : (will be updated later).
 - ⚡️fascinated by recent advancements and love to know more.
 - 🔭Looking forward for working with AI/ML/DS related projects (noobish, but hardworking).
-- 💬Open to suggestions.
+- 💬Restarting learning new things and experimenting with electrical based simulations.
 - ⬇️Some projects done are in repo (don't judge-as they're mostly based on coursera guidelines and requirements).
-- 🍕Complex projects are Work in progress and might upload in new repo.
-- 📜 Portfolio (need to make and present here)
-- ⏳Strongly believe in upskilling as it saves time.
-- 🎯Focussing for interesting projects and understanding existing projects.
+- 🍕Few domain specific projects are currently being done and will be uploaded with some reports.
+- 📜 Portfolio _Electrical and Computer based engineer.
+- ⏳Strongly believe in upskilling as it saves time in the long run as multiple tools provides different advantages and easy to use specialised tool for work.
+- 🎯Focussing on continuous hardwork and studying-mostly self-study and some online courses..
 - <img src="https://github.com/rsmaayon/rsmaayon/assets/116261236/f9df529b-cc10-473e-9ba0-e4fa966acf21" width="25"> Always learning something because it is new or I forgot.
 - 💯Cheat sheets and road maps (collected from others, mostly from LinkedIN) are also in repo, check them as it is very useful directly or indirectly.
 - 💡Few other notable works (not in repo): Automation for testing, Analysis of data, Visualization with Python, R, Plotly, problem identification with pattern recognition.
