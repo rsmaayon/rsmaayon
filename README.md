@@ -1,5 +1,5 @@
 ## Hi there 👋
-welcone to my github page. I am learning multiple topics and usually keep assignments in this profile.
+welcome to my github page. I am learning multiple topics and usually keep assignments in this profile.
 - 💻I’m currently doing multiple courses on Artificial Intelligence, Data Science and Machine learning related topics.
 - 👨‍💻Learning Python (mainly), R, SQL, Power BI, Tableau.
 - 🛠 Have lot more to learn (guide me).
